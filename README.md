@@ -1,2 +1,2 @@
 # sql-challenge
- Homework 9
+The instructions for this challenge had me create and query data in a SQL Server. I was also tasked with creating a entity relationship diagram before creating the SQL tables as a way to structure my server. As a challenge, I was supposed to access this server using python. I have included all of the relavent documents and data in the main folder.
